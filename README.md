@@ -1,10 +1,10 @@
-# 👨‍💻 Nameer Hanif's Coding Projects
+# 👨‍💻 Nameer Hanif
 **`Quick-witted Developer`**
 
 👋 I'm Nameer, a Software Engineering Co-op student at Concordia University with a strong interest in AI and web development. All my coding projects are built from the ground up — **planning, designing, developing, and maintaining** solutions to tackle real-world problems through code.  I am currently exploring **Data Science 📊** through **Machine Learning 🤖**.
 
 ---
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -25,7 +25,13 @@
 
 # 
 
-### 📊 Stats
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)        
+## 📊 GitHub Stats
+<!-- ![](https://github-readme-stats.vercel.app/api?username=GAROLF05&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![](https://nirzak-streak-stats.vercel.app/?user=GAROLF05&theme=onedark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAROLF05&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namz05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nameerhm@gmail.com) 
