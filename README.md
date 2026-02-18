@@ -26,4 +26,6 @@
 # 
 
 ### 📊 Stats
-![Nameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAROLF05&theme=onedark&show_icons=true)          
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)        
