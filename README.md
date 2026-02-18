@@ -22,9 +22,6 @@
 <img align="left" alt="VSCode" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br><br><br>
 
-
-# 
-
 ## 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=GAROLF05&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=GAROLF05&theme=onedark&hide_border=false)<br/>
@@ -33,5 +30,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🌐 Socials:
+## 🌐 Socials: 
+Feel free to hit me up on one of the following socials down below. I'd be happy to work on a project together!<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/namz05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nameerhm@gmail.com) 
