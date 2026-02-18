@@ -5,6 +5,7 @@
 
 ---
 ### 🧰 Languages and Tools
+
 <img align="left" alt="Python" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="C" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -19,7 +20,10 @@
 <img align="left" alt="Azure DevOps" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 <img align="left" alt="Visual Studio" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="VSCode" width="40px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br><br><br>
 
 
+# 
 
-          
+### 📊 Stats
+![Nameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAROLF05&theme=onedark&show_icons=true)          
